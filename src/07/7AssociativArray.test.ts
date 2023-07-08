@@ -26,3 +26,5 @@ test('should be delete object', ()=>{
     expect(users['105']).toBeUndefined()
     //проверяем удалился ли объект
 })
+
+
